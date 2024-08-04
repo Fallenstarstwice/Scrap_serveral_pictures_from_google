@@ -3,6 +3,7 @@ Recommend python=3.11
 # Way to start:
 Open cmd, and enter
 ```
+pip install -r requirements.txt
 python main.py
 ```
 And it will show:
